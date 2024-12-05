@@ -1,0 +1,52 @@
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\bin\Debug\net8.0-windows\antoanthongtin_levantien.exe
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\bin\Debug\net8.0-windows\antoanthongtin_levantien.deps.json
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\bin\Debug\net8.0-windows\antoanthongtin_levantien.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\bin\Debug\net8.0-windows\antoanthongtin_levantien.dll
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\bin\Debug\net8.0-windows\antoanthongtin_levantien.pdb
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Menu.resources
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.dll
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\refint\antoanthongtin_levantien.dll
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.pdb
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\ref\antoanthongtin_levantien.dll
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Caesar.resources
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Playfair.resources
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Affine.resources
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Vigenere.resources
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Hang.resources
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Hill.resources
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.RSA.resources
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Hill_Elite_.resources
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio\BTTL\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Form2.resources
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\bin\Debug\net8.0-windows\antoanthongtin_levantien.exe
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\bin\Debug\net8.0-windows\antoanthongtin_levantien.deps.json
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\bin\Debug\net8.0-windows\antoanthongtin_levantien.runtimeconfig.json
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\bin\Debug\net8.0-windows\antoanthongtin_levantien.dll
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\bin\Debug\net8.0-windows\antoanthongtin_levantien.pdb
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Affine.resources
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Caesar.resources
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Form1.resources
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Form2.resources
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Hang.resources
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Hill_Elite_.resources
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Hill.resources
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Menu.resources
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Playfair.resources
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.RSA.resources
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.Vigenere.resources
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.dll
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\refint\antoanthongtin_levantien.dll
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.pdb
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\antoanthongtin_levantien.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Nhóm 8_DHTI15A20HN\Nhóm 8_DHTI15A20HN\LV.Tiến(Hill & RSA)\antoanthongtin_levantien\obj\Debug\net8.0-windows\ref\antoanthongtin_levantien.dll

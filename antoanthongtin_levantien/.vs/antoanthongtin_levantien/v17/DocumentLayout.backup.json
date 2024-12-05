@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Nh\u00F3m 8_DHTI15A20HN\\Nh\u00F3m 8_DHTI15A20HN\\LV.Ti\u1EBFn(Hill \u0026 RSA)\\antoanthongtin_levantien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C593AFFF-559F-4DED-8708-93B8340B5AA1}|antoanthongtin_levantien.csproj|c:\\users\\administrator\\desktop\\nh\u00F3m 8_dhti15a20hn\\nh\u00F3m 8_dhti15a20hn\\lv.ti\u1EBFn(hill \u0026 rsa)\\antoanthongtin_levantien\\hill(elite).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C593AFFF-559F-4DED-8708-93B8340B5AA1}|antoanthongtin_levantien.csproj|solutionrelative:hill(elite).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C593AFFF-559F-4DED-8708-93B8340B5AA1}|antoanthongtin_levantien.csproj|c:\\users\\administrator\\desktop\\nh\u00F3m 8_dhti15a20hn\\nh\u00F3m 8_dhti15a20hn\\lv.ti\u1EBFn(hill \u0026 rsa)\\antoanthongtin_levantien\\matrannghich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C593AFFF-559F-4DED-8708-93B8340B5AA1}|antoanthongtin_levantien.csproj|solutionrelative:matrannghich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C593AFFF-559F-4DED-8708-93B8340B5AA1}|antoanthongtin_levantien.csproj|C:\\Users\\Administrator\\Desktop\\Nh\u00F3m 8_DHTI15A20HN\\Nh\u00F3m 8_DHTI15A20HN\\LV.Ti\u1EBFn(Hill \u0026 RSA)\\antoanthongtin_levantien\\hill(elite).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C593AFFF-559F-4DED-8708-93B8340B5AA1}|antoanthongtin_levantien.csproj|solutionrelative:hill(elite).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C593AFFF-559F-4DED-8708-93B8340B5AA1}|antoanthongtin_levantien.csproj|c:\\users\\administrator\\desktop\\nh\u00F3m 8_dhti15a20hn\\nh\u00F3m 8_dhti15a20hn\\lv.ti\u1EBFn(hill \u0026 rsa)\\antoanthongtin_levantien\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C593AFFF-559F-4DED-8708-93B8340B5AA1}|antoanthongtin_levantien.csproj|solutionrelative:rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C593AFFF-559F-4DED-8708-93B8340B5AA1}|antoanthongtin_levantien.csproj|C:\\Users\\Administrator\\Desktop\\Nh\u00F3m 8_DHTI15A20HN\\Nh\u00F3m 8_DHTI15A20HN\\LV.Ti\u1EBFn(Hill \u0026 RSA)\\antoanthongtin_levantien\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C593AFFF-559F-4DED-8708-93B8340B5AA1}|antoanthongtin_levantien.csproj|solutionrelative:rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RSA.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Nh\u00F3m 8_DHTI15A20HN\\Nh\u00F3m 8_DHTI15A20HN\\LV.Ti\u1EBFn(Hill \u0026 RSA)\\antoanthongtin_levantien\\RSA.cs",
+              "RelativeDocumentMoniker": "RSA.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Nh\u00F3m 8_DHTI15A20HN\\Nh\u00F3m 8_DHTI15A20HN\\LV.Ti\u1EBFn(Hill \u0026 RSA)\\antoanthongtin_levantien\\RSA.cs",
+              "RelativeToolTip": "RSA.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA5wEwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:45:12.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RSA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Nh\u00F3m 8_DHTI15A20HN\\Nh\u00F3m 8_DHTI15A20HN\\LV.Ti\u1EBFn(Hill \u0026 RSA)\\antoanthongtin_levantien\\RSA.cs",
+              "RelativeDocumentMoniker": "RSA.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Visual Studio\\BTTL\\antoanthongtin_levantien\\RSA.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\Visual Studio\\BTTL\\antoanthongtin_levantien\\RSA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:45:08.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaTranNghich.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Nh\u00F3m 8_DHTI15A20HN\\Nh\u00F3m 8_DHTI15A20HN\\LV.Ti\u1EBFn(Hill \u0026 RSA)\\antoanthongtin_levantien\\MaTranNghich.cs",
+              "RelativeDocumentMoniker": "MaTranNghich.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Nh\u00F3m 8_DHTI15A20HN\\Nh\u00F3m 8_DHTI15A20HN\\LV.Ti\u1EBFn(Hill \u0026 RSA)\\antoanthongtin_levantien\\MaTranNghich.cs",
+              "RelativeToolTip": "MaTranNghich.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:54:26.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hill(Elite).cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Nh\u00F3m 8_DHTI15A20HN\\Nh\u00F3m 8_DHTI15A20HN\\LV.Ti\u1EBFn(Hill \u0026 RSA)\\antoanthongtin_levantien\\Hill(Elite).cs",
+              "RelativeDocumentMoniker": "Hill(Elite).cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Nh\u00F3m 8_DHTI15A20HN\\Nh\u00F3m 8_DHTI15A20HN\\LV.Ti\u1EBFn(Hill \u0026 RSA)\\antoanthongtin_levantien\\Hill(Elite).cs",
+              "RelativeToolTip": "Hill(Elite).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:29:16.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hill(Elite).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Nh\u00F3m 8_DHTI15A20HN\\Nh\u00F3m 8_DHTI15A20HN\\LV.Ti\u1EBFn(Hill \u0026 RSA)\\antoanthongtin_levantien\\Hill(Elite).cs",
+              "RelativeDocumentMoniker": "Hill(Elite).cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Visual Studio\\BTTL\\antoanthongtin_levantien\\Hill(Elite).cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\Visual Studio\\BTTL\\antoanthongtin_levantien\\Hill(Elite).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:29:14.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
